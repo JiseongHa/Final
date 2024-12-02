@@ -30,7 +30,7 @@ let fileCollection = [
     "videoURL" : "https://www.youtube.com/embed/GXN34w8kju4",
   },
   {
-    "pageTitle" : "The Instagram algorithm: How it works and strategies for 2024",
+    "pageTitle" : "The Instagram algorithm",
     "id" : "Instagram",
     "mainDescription" : ["Contrary to popular belief, there isn’t one, all-powerful algorithm. Each section of Instagram—Reels, Stories/Feed and Explore—has its own." , 
                         "From the time you publish a post to how often someone “likes” your content, these signals are all weighted differently on each part of the platform to rank posts. For example, when clicking through Stories, people most likely want to see content from their friends. But if they’re browsing Explore, they want to see something new.",
